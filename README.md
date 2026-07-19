@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aswin P T Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aswin%20P%20T&fontSize=50&theme=tokyonight" alt="Aswin P T" />
 </p>
 
-<h1 align="center">Hi there, I'm Aswin P T 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -152,19 +151,6 @@ My primary research and development interests include **Federated Learning, Grap
     <li>Optimized local deployments of <b>Llama-3</b> via <b>Ollama</b> and <b>Node.js</b>.</li>
   </ul>
 </details>
-
----
-
-### 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswinpt2004&show_icons=true&theme=tokyonight&count_private=true" alt="Aswin's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinpt2004&layout=compact&theme=tokyonight&langs_count=6" alt="Aswin's Top Languages" height="195px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinpt2004&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
 
 ---
 
