@@ -95,7 +95,7 @@ My primary research and development interests include **Federated Learning, Grap
 </details>
 
 <details>
-  <summary>🌍 <b>KuTu: AI-Powered Tour Guide Marketplace</b></summary>
+  <summary>🌍 <b>KuTo: AI-Powered Tour Guide Marketplace</b></summary>
   <br/>
   <blockquote>An intelligent travel platform connecting travelers with verified local guides.</blockquote>
   <ul>
