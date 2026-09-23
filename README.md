@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Backend+Developer;Research+Enthusiast;M.Sc.+Machine+Intelligence+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=500&lines=Research+Assistant;AI%2FML+Engineer;Computer+Vision;Backend+Developer;M.Sc.+Machine+Intelligence+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,9 +31,9 @@
 
 ### 💫 About Me
 
-I am a **Machine Intelligence Graduate Student** at the Kerala University of Digital Sciences, Innovation and Technology (DUK). As an **AI/ML Engineer** and **Backend Developer**, I focus on building performant, research-backed, and privacy-preserving intelligent systems.
+I am a **Machine Intelligence Graduate Student** at the Kerala University of Digital Sciences, Innovation and Technology (DUK) and a **Research Assistant – AI & Data Science** at **Quantumweave Intelligence**. As an **AI/ML Engineer** and **Backend Developer**, I focus on building performant, research-backed, and privacy-preserving intelligent systems.
 
-My primary research and development interests include **Federated Learning, Graph Neural Networks (GNNs), and Differential Privacy**. I combine clean production-grade backend engineering with machine learning algorithms to solve real-world problems in healthcare and finance.
+My primary research and development interests include **Computer Vision (Drone Vision, Object Tracking), Deep Learning, Federated Learning, and Graph Neural Networks (GNNs)**. Currently working on AI-based drone vision systems with deep learning architectures (**CSRNet, YOLO**), video processing, and geospatial analysis for real-world drone applications.
 
 ---
 
@@ -51,6 +51,7 @@ My primary research and development interests include **Federated Learning, Grap
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black" alt="YOLO" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -68,6 +69,14 @@ My primary research and development interests include **Federated Learning, Grap
 ---
 
 ### 💼 Professional Experience
+
+#### 🏢 **Quantumweave Intelligence** | *Research Assistant – AI & Data Science* (Present)
+> Developing AI-based drone vision systems, deep learning computer vision pipelines, and geospatial analysis for real-world drone applications.
+
+* **AI Drone Vision & Aerial Surveillance Systems**
+  * Developing computer vision pipelines for real-time **crowd counting, vehicle detection, object tracking, and intrusion detection**.
+  * Implementing deep learning models such as **CSRNet and YOLO** for aerial surveillance and video processing.
+  * Performing video processing, dataset preparation, and **geospatial analysis** workflows for field drone deployments.
 
 #### 🏢 **Synbrains Solutions Pvt Ltd** | *AI/ML Intern* (Mar 2026 – May 2026)
 > Delivered production-grade AI components and privacy-centric solutions within a 12-week intensive industry internship.
